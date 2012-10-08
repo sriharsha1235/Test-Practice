@@ -1,0 +1,5 @@
+name = TOI Custom Module
+description = Secondary customisations for TOI module
+core = 7.x
+version = VERSION
+package = TOI
